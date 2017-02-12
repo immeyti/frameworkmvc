@@ -1,0 +1,1 @@
+<?php namespace Core;abstract class Model{    protected $pdo;    public function __construct()    {        $this->pdo = $this->make();    }    protected function make()    {        try{            return new \PDO("mysql:host=localhost;dbname=club" , "root" , "");        }catch (\PDOException $e){            throw $e;        }    }}

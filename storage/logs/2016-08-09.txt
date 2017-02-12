@@ -1,0 +1,70 @@
+[09-Aug-2016 06:08:51 Europe/Berlin] 
+<h1>Fatal error</h1>
+<p>Uncaught exception: 'Exception'</p>
+<p>Message : 'no route matched.'</p>
+<p>Stack trace: <pre>#0 C:\xampp\htdocs\mvcproject\public\index.php(10): Core\Router->dispatch('articles')
+#1 {main}</pre></p>
+<p>Thrown in 'C:\xampp\htdocs\mvcproject\Core\Router.php' on line 78</p>
+
+[09-Aug-2016 06:41:46 Europe/Berlin] 
+<h1>Fatal error</h1>
+<p>Uncaught exception: 'Exception'</p>
+<p>Message : '../App/Views/index.php not found'</p>
+<p>Stack trace: <pre>#0 C:\xampp\htdocs\mvcproject\App\Controllers\HomeController.php(10): Core\View::render('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\mvcproject\Core\Router.php(67): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvcproject\public\index.php(10): Core\Router->dispatch('')
+#4 {main}</pre></p>
+<p>Thrown in 'C:\xampp\htdocs\mvcproject\Core\View.php' on line 16</p>
+
+[09-Aug-2016 06:41:47 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message '../App/Views/errors/500.php not found' in C:\xampp\htdocs\mvcproject\Core\View.php:16
+Stack trace:
+#0 C:\xampp\htdocs\mvcproject\Core\Error.php(40): Core\View::render('errors/500')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\mvcproject\Core\View.php on line 16
+[09-Aug-2016 06:44:17 Europe/Berlin] 
+<h1>Fatal error</h1>
+<p>Uncaught exception: 'Exception'</p>
+<p>Message : '../App/Views/index.php not found'</p>
+<p>Stack trace: <pre>#0 C:\xampp\htdocs\mvcproject\App\Controllers\HomeController.php(10): Core\View::render('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\mvcproject\Core\Router.php(67): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvcproject\public\index.php(10): Core\Router->dispatch('')
+#4 {main}</pre></p>
+<p>Thrown in 'C:\xampp\htdocs\mvcproject\Core\View.php' on line 16</p>
+
+[09-Aug-2016 06:44:17 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message '../App/Views/errors/500.php not found' in C:\xampp\htdocs\mvcproject\Core\View.php:16
+Stack trace:
+#0 C:\xampp\htdocs\mvcproject\Core\Error.php(40): Core\View::render('errors/500')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\mvcproject\Core\View.php on line 16
+[09-Aug-2016 07:00:40 Europe/Berlin] 
+<h1>Fatal error</h1>
+<p>Uncaught exception: 'Exception'</p>
+<p>Message : '../App/Views/index.php not found'</p>
+<p>Stack trace: <pre>#0 C:\xampp\htdocs\mvcproject\App\Controllers\HomeController.php(10): Core\View::render('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\mvcproject\Core\Router.php(67): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvcproject\public\index.php(10): Core\Router->dispatch('')
+#4 {main}</pre></p>
+<p>Thrown in 'C:\xampp\htdocs\mvcproject\Core\View.php' on line 16</p>
+
+[09-Aug-2016 07:00:40 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message '../App/Views/errors/500.php not found' in C:\xampp\htdocs\mvcproject\Core\View.php:16
+Stack trace:
+#0 C:\xampp\htdocs\mvcproject\Core\Error.php(40): Core\View::render('errors/500')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\mvcproject\Core\View.php on line 16
+[09-Aug-2016 07:02:07 Europe/Berlin] 
+<h1>Fatal error</h1>
+<p>Uncaught exception: 'Exception'</p>
+<p>Message : '../App/Views/index.php not found'</p>
+<p>Stack trace: <pre>#0 C:\xampp\htdocs\mvcproject\App\Controllers\HomeController.php(10): Core\View::render('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\mvcproject\Core\Router.php(67): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\mvcproject\public\index.php(10): Core\Router->dispatch('')
+#4 {main}</pre></p>
+<p>Thrown in 'C:\xampp\htdocs\mvcproject\Core\View.php' on line 16</p>
+

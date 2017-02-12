@@ -1,0 +1,1 @@
+@extends('app')@section('title' , 'User')@section('content')    <h1>User :</h1>    {{$user->username}}@endsection

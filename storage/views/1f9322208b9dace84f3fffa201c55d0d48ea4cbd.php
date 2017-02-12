@@ -1,0 +1,2 @@
+<?php $__env->startSection('title' , 'User'); ?><?php $__env->startSection('content'); ?>    <h1>User :</h1>    <?php echo e($user->username); ?><?php $__env->stopSection(); ?>
+<?php echo $__env->make('app', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
