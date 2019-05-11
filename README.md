@@ -1,3 +1,3 @@
-# frameworkmvc
+# Framework MVC
 
-A sample mvc framework.
+A simple PHP mvc framework.
